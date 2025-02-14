@@ -43,7 +43,7 @@ https://www.figma.com/design/j2cS4LKn7EYMCNiKHInZky/Untitled?node-id=0-1&t=tsCPp
 Utilizamos o Figma, uma interface que nos permitiu visualizar nosso jogo como se funcionasse.
 
 *- Quais elementos visuais foram aprimorados?*  
-Adicionamos mais elementos ao cenário e aprimoramos o design de todos os elementos presentes no jogo, trazendo um estilo de arte lúdico.
+Adicionamos mais elementos ao cenário, aprimoramos o design de todos os elementos presentes no jogo, trazendo um estilo de arte lúdico e adicionamos um menu.
 
 *- O uso de cores, formas e layout foi pensado para reforçar que aspectos do jogo?*  
 Queríamos ainda preservar a simplicidade de formas em alguns elementos do jogo, então deixamos a "bola" mais circular, assim como as plataformas retangulares. As cores são acesas, mas sem tornar a interface confusa visualmente, contrastando com o cenário escuro que mimica o espaço sideral. O layout foi pensado exclusivamente para um jogo mobile, então encaixamos os elementos de forma a caber de maneira confortável na tela de um celular.
