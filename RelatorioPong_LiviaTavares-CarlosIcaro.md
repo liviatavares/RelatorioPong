@@ -54,10 +54,14 @@ Queríamos ainda preservar a simplicidade de formas em alguns elementos do jogo,
 
 
 1. Quais foram os maiores desafios enfrentados durante o processo de criação?
+
    *Lívia: pensar num novo tema e nos seus elementos. Acredito que o Pong, por ser um jogo muito clássico e conhecido, torna-se difícil de reimaginar com elementos diferentes sem que perca sua essência.*
+   
    *Carlos:*
    
-2. Que habilidades foram desenvolvidas ou aprimoradas ao longo da atividade?
+3. Que habilidades foram desenvolvidas ou aprimoradas ao longo da atividade?
+
    *Lívia: criatividade e pensamentos sobre UX/UI, pois precisamos pensar bastante sobre como o jogador se sentiria ao jogar nossa versão reimaginada*
+   
    *Carlos:*
 
