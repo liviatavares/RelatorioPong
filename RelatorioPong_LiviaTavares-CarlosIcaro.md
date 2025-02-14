@@ -17,14 +17,14 @@ O que torna Pong um jogo envolvente e jogável é sua simplicidade. Uma interfac
 
 ## 3. Proposta de Reinvenção  
 
-*- **Tema e Ambientação:** 
+**- Tema e Ambientação:** 
 Nosso jogo se ambienta no espaço. Com elementos como estrelas, meteoros, naves e planeta, a nova ambientação entra totalmente no tema aeroespacial.
 
-*- **Personagens ou Elementos Visuais:** A nossa bola, agora são meteoros, que caem continuamente e simultaneamente na tela. Eles podem se desgastar, criando uma nova dinamica ao jogo.
+**- Personagens ou Elementos Visuais:** A nossa bola, agora são meteoros, que caem continuamente e simultaneamente na tela. Eles podem se desgastar, criando uma nova dinamica ao jogo.
 
-*- **Mudanças na Mecânica:** O jogo agora é singleplayer. Além disso, adicionamos uma nova mecânica ao jogo: os meteoros, como caem simultaneamente, exigem do usuário uma maior atenção, e eles podem se desgastar a cada vez que quicam nas bordas da tela, ganhando, dessa forma, velocidade e, caso colidam com outro meteoro que está caindo, eles explodem.
+**- Mudanças na Mecânica:** O jogo agora é singleplayer. Além disso, adicionamos uma nova mecânica ao jogo: os meteoros, como caem simultaneamente, exigem do usuário uma maior atenção, e eles podem se desgastar a cada vez que quicam nas bordas da tela, ganhando, dessa forma, velocidade e, caso colidam com outro meteoro que está caindo, eles explodem.
 
-*- **Objetivo da Reinvenção:** Nossa nova versão, além de trazer um olhar aeroespacial para um jogo clássico, tem como objetivo tornar o jogo independente da existência de um outro jogador, ou seja, mais facilmente jogável e trazer dinâmicas diferenciadas que trazem ao usuário um maior espírito de adrenalina enquanto joga.
+**- Objetivo da Reinvenção:** Nossa nova versão, além de trazer um olhar aeroespacial para um jogo clássico, tem como objetivo tornar o jogo independente da existência de um outro jogador, ou seja, mais facilmente jogável e trazer dinâmicas diferenciadas que trazem ao usuário um maior espírito de adrenalina enquanto joga.
 
 <p align="center">
 <a <img src="/assets/conceptArt.jpg" border="0" width=40% height=40%></a>
