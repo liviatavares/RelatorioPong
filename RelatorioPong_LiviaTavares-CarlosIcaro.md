@@ -27,7 +27,7 @@ Nosso jogo se ambienta no espaço. Com elementos como estrelas, meteoros, naves 
 **- Objetivo da Reinvenção:** Nossa nova versão, além de trazer um olhar aeroespacial para um jogo clássico, tem como objetivo tornar o jogo independente da existência de um outro jogador, ou seja, mais facilmente jogável e trazer dinâmicas diferenciadas que trazem ao usuário um maior espírito de adrenalina enquanto joga.
 
 <p align="center">
-<a href= "https://www.inteli.edu.br/"><img src="/assets/conceptArt.jpg" alt="concept Art do nosso jogo" border="0" width=40% height=40%></a>
+<a href= "https://www.inteli.edu.br/"><img src="/assets/conceptArt.jpg" alt="concept Art do nosso jogo" border="0" width=60% height=60%></a>
 </p>
 
 <br>
