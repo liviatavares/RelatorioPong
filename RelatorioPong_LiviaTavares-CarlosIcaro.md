@@ -37,7 +37,7 @@ Nosso jogo se ambienta no espaço. Com elementos como estrelas, meteoros, naves 
 ---
 
 ## 4. Tela Digital do Jogo  
-*Adicione aqui a **imagem da tela digital finalizada** ou o **link para o arquivo**.*  
+https://www.figma.com/design/j2cS4LKn7EYMCNiKHInZky/Untitled?node-id=0-1&t=tsCPpeERaHCeGVRy-1
 
 *- Como o concept foi adaptado para o formato digital?*
 Utilizamos o Figma, uma interface que nos permitiu visualizar nosso jogo como se funcionasse.
@@ -57,11 +57,11 @@ Queríamos ainda preservar a simplicidade de formas em alguns elementos do jogo,
 
    *Lívia: pensar num novo tema e nos seus elementos. Acredito que o Pong, por ser um jogo muito clássico e conhecido, torna-se difícil de reimaginar com elementos diferentes sem que perca sua essência.*
    
-   *Carlos:*
+   *Carlos: Interpretar a mecânica e desenvolver uma sua implementação da mesma*
    
 3. Que habilidades foram desenvolvidas ou aprimoradas ao longo da atividade?
 
    *Lívia: criatividade e pensamentos sobre UX/UI, pois precisamos pensar bastante sobre como o jogador se sentiria ao jogar nossa versão reimaginada*
    
-   *Carlos:*
+   *Carlos: Seleção de sprites, análise de dimensionamento, tipo de arquivo (JPEG, PNG ou WEBP), manipulação de opacidade e cores*
 
