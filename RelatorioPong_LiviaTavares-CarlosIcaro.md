@@ -8,7 +8,9 @@ Nessa atividade, juntando criatividade, inovação e pensando no que aprendemos 
 
 ## 2. Pesquisa e Análise Inicial  
 Mecânica: o jogo possui apenas duas raquetes e uma bola.
+
 Dinâmica: o jogador deve rebater a bola com sua raquete, impedindo o ponto do outro jogador, e o objetivo é que o outro jogador não consiga rebater a bola que você lançar.
+
 Estética: a primeira versão do jogo utilizava apenas elementos geométricos simples. um quadrado para a bola, um conjunto de quadrados para a rede, dois retângulos para as raquetes e um placar que mostrava os pontos de cada jogador.
 
 O que torna Pong um jogo envolvente e jogável é sua simplicidade. Uma interface simples, sem regras muito complicadas ou elementos muito distrativos, contribuem bastante para o sucesso do jogo. Além disso, ele desperta um fator muito importante: o espírito de competitividade. Seja jogando contra o computador (um bot) ou contra outro player, sua simplicidade de jogar e sua equidade para os jogadores (não há, por exemplo, vantagens, como skills, xp ou poderes, que os jogadores podem adquirir jogando, então eles dependem de sua própria capacidade de pensamento rápido para prever a posição da bola, sem deixar de ser divertido) entrega a diversão trazida por uma partida de tênis, mas sem precisar de elementos muito técnicos de habilidade do esporte.
